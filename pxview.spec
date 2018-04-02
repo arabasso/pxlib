@@ -8,7 +8,7 @@ URL:            http://pxlib.sourceforge.net/pxview/
 Vendor:         Uwe Steinmann
 Source:         https://ufpr.dl.sourceforge.net/project/%{name}/%{name}/%{version}/%{name}-%{version}.tar.gz
 Prefix:         %{_prefix}
-Packager: 	    arabasso
+Packager:       arabasso
 BuildRoot:      %{_tmppath}/%{name}-root
 Requires:       pxlib sqlite2
 
