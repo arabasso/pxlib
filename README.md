@@ -1,2 +1,2 @@
-# pxlib and pxview
-## pxlib and pxview precompiled packages for CentOS 7 1708.
+# pxlib-package
+## pxlib and pxview precompiled packages and rpm specs for CentOS 7 1708.

@@ -2,7 +2,7 @@ Name:           pxlib
 Version:        0.6.8
 Release:        0
 Summary:        Library to read and write Paradox databases
-Group:          Applications/Multimedia
+Group:          Applications/Databases
 License:        GPL
 URL:            http://pxlib.sourceforge.net/
 Vendor:         Uwe Steinmann
